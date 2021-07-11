@@ -1,0 +1,5 @@
+{
+    "ROUTEAPI": "http://localhost:3001/favourites",
+    "NASAPI": "https://api.nasa.gov/planetary/apod?api_key=PSzBTKIwNg2v6DTzhbeMZvU2b5slEvdtN5rRyid3",
+    "FIRSTINDEX": 0
+  }
